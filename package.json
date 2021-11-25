@@ -1,0 +1,15 @@
+{
+  "name": "tele-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for your pm2 server",
+  "main": "example.ts",
+  "type": "module",
+  "repository": "git@github.com:shamil8/tele-bot.git",
+  "author": "Shamil Qurbonov <qurbonovshamil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
